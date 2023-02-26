@@ -46,6 +46,10 @@
     <a href="https://github.com/jerryn70/GoodbyeAds">
       Github
     </a>
+<span> | </span>
+    <a href="goodbyeads.tutamail.com">
+      Mail Us
+    </a>
   </h3>
 </div>
 
@@ -115,7 +119,7 @@ If you do not see it, then you are using one of my lists (or a list that include
  - [How to Use](https://github.com/jerryn70/GoodbyeAds/blob/master/Docs/How%20to%20use.md)
  - [Sources](https://github.com/jerryn70/GoodbyeAds/blob/master/Docs/Sources.md)
  - [Dead Hosts Removal](https://github.com/jerryn70/GoodbyeAds/blob/master/Docs/Dead%20host%20removal.md)
- - [Financial Contributors](https://github.com/jerryn70/GoodbyeAds/blob/master/Docs/Financial%20contributors.md)
+ - [Financial Contributors❤️](https://github.com/jerryn70/GoodbyeAds/blob/master/Docs/Financial%20contributors.md)
 
 ## Support
 
@@ -130,3 +134,9 @@ This donation is for our services, not for any pack, resource or any other mean.
 ## Disclaimer
 
 Goodbye Ads Hosts are basically `hosts` files to block access to domains. If you don't know how it works, then please try this at your own risk. I won't be responsible for any damage or loss. Never forget to make backups.
+
+
+<p align="center">
+  Made with ❤️ in Kerala 🌴
+</p>
+
