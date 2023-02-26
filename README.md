@@ -48,7 +48,7 @@
     </a>
 <span> | </span>
     <a href="goodbyeads.tutamail.com">
-      Mail Us
+      Email
     </a>
   </h3>
 </div>
@@ -137,6 +137,6 @@ Goodbye Ads Hosts are basically `hosts` files to block access to domains. If you
 
 
 <p align="center">
-  Made with ❤️ in Kerala 🌴
+  <strong>Made with ❤️ in Kerala 🌴</strong>
 </p>
 
