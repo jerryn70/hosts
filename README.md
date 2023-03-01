@@ -46,10 +46,10 @@
     <a href="https://github.com/jerryn70/GoodbyeAds">
       Github
     </a>
-<span> | </span>
-    <a href="goodbyeads.tutamail.com">
-      Email
-    </a>
+
+
+
+
   </h3>
 </div>
 
