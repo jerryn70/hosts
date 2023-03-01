@@ -146,8 +146,8 @@ Goodbye Ads Hosts are basically `hosts` files to block access to domains. If you
 <h1>Lists</h1>
 <section>
 <h2>
-<a href="lists/ads-and-tracking-extended.txt">Ads &amp; Tracking:</a>
-<small><span id="ads-and-tracking-extended-count">431,453</span> hosts</small>
+<a href="https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt">GoodbyeAds:</a>
+<small><span id="GoodbyeAds count">431,453</span> hosts</small>
 </h2>
 <p>
 A programmatically expanded list of hosts used for advertisements and tracking. This is my primary list and I recommend using it.
