@@ -69,7 +69,7 @@
  
 ## Lists
 
-Basic info about GoodbyeAds & Add-ons
+__Basic info about GoodbyeAds & Add-ons__
 
 <section>
 <h2>
