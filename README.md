@@ -121,6 +121,9 @@ If you do not see it, then you are using one of my lists (or a list that include
  - [Dead Hosts Removal](https://github.com/jerryn70/GoodbyeAds/blob/master/Docs/Dead%20host%20removal.md)
  - [Financial Contributors❤️](https://github.com/jerryn70/GoodbyeAds/blob/master/Docs/Financial%20contributors.md)
 
+## Connect with us
+📫 **goodbyeads@tutamail.com**
+
 ## Support
 
 Maintaining a quality blocking project takes a lot of time. GoodbyeAds is completely independently funded. We fight for our users. This does mean
