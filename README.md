@@ -196,6 +196,7 @@ This donation is for our services, not for any pack, resource or any other mean.
 Goodbye Ads Hosts are basically `hosts` files to block access to domains. If you don't know how it works, then please try this at your own risk. I won't be responsible for any damage or loss. Never forget to make backups.
 
 
+
 <p align="center">
   <strong>Made with ❤️ in Kerala 🌴</strong>
 </p>
