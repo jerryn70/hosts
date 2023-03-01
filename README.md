@@ -144,13 +144,13 @@ Goodbye Ads Hosts are basically `hosts` files to block access to domains. If you
 </p>
 
 <h1>Lists</h1>
-        <section>
-            <h2>
-                <a href="lists/ads-and-tracking-extended.txt">Ads &amp; Tracking:</a>
-                <small><span id="ads-and-tracking-extended-count">431,453</span> hosts</small>
-            </h2>
-            <p>
-                A programmatically expanded list of hosts used for advertisements and tracking. This is my primary list and I recommend using it.
-                This list was last updated on <span id="ads-and-tracking-extended-date">March 01, 2023</span>.
-            </p>
-        </section>
+<section>
+<h2>
+<a href="lists/ads-and-tracking-extended.txt">Ads &amp; Tracking:</a>
+<small><span id="ads-and-tracking-extended-count">431,453</span> hosts</small>
+</h2>
+<p>
+A programmatically expanded list of hosts used for advertisements and tracking. This is my primary list and I recommend using it.
+This list was last updated on <span id="ads-and-tracking-extended-date">March 01, 2023</span>.
+</p>
+</section>
