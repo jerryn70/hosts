@@ -155,3 +155,13 @@ This list was last updated on <span id="GoodbyeAds-date">March 01, 2023</span>.
 </p>
 </section>
 
+<section>
+<h2>
+<a href="https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt">GoodbyeAds:</a>
+<small><span id="GoodbyeAds-count">431,453</span> hosts</small>
+</h2>
+<p>
+A programmatically expanded list of hosts used for advertisements and tracking. This is my primary list and I recommend using it.
+This list was last updated on <span id="GoodbyeAds-date">March 01, 2023</span>.
+</p>
+</section>
