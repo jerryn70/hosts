@@ -2,9 +2,9 @@
   <img width="400" height="400" src="https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Images/GoodbyeAds_New_logo_Trans.png">
 </p>
 <br>
-&nbsp;
 
-&nbsp;   
+
+ <p align="center">
 <a href="https://github.com/jerryn70/GoodbyeAds/release" > 
     <img src="https://img.shields.io/github/release/jerryn70/GoodbyeAds?label=releases&color=critical" alt="latest release" >
    <a/>
@@ -24,7 +24,7 @@
   <a/>
 <a href="https://github.com/jerryn70/GoodbyeAds/issues"><img src="https://img.shields.io/github/issues/jerryn70/GoodbyeAds?color=red&logo=github&style=plastic" alt="GH issues"></a>
 <a href="https://github.com/jerryn70/GoodbyeAds"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjerryn70%2FGoodbyeAds_fGHyh&count_bg=%234572CD&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views%3A+%28today%2FTotal%29&edge_flat=false"/></a>       
-
+</p>
    
 <h1 align="center">GoodbyeAds - W🌎rld of Ads Free Internet</h1> 
 <p align="center">
