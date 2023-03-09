@@ -66,7 +66,7 @@
   </h3>
 </p>
 
-## Features
+## Features 4t
 
 - __small in size:__ The complete host list size is less then 5mb.
 - __Host file:__ Based on `hosts` file, all the bad domains are blocked with `0.0.0.0`
