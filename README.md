@@ -2,7 +2,9 @@
   <img width="400" height="400" src="https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Images/GoodbyeAds_New_logo_Trans.png">
 </p>
 <br>
-     
+&nbsp;
+
+&nbsp;   
 <a href="https://github.com/jerryn70/GoodbyeAds/release" > 
     <img src="https://img.shields.io/github/release/jerryn70/GoodbyeAds?label=releases&color=critical" alt="latest release" >
    <a/>
