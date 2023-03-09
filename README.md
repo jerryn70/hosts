@@ -3,17 +3,27 @@
 </p>
 <br>
      
-[![latest release](https://img.shields.io/github/release/jerryn70/GoodbyeAds.svg)](https://github.com/jerryn70/GoodbyeAds/releases)
-[![license](https://img.shields.io/github/license/jerryn70/GoodbyeAds.svg)](https://github.com/jerryn70/GoodbyeAds/blob/master/license.txt)
-[![contributors](https://img.shields.io/github/contributors/jerryn70/GoodbyeAds.svg)](https://github.com/jerryn70/GoodbyeAds/graphs/contributors)
-[![commits since last release](https://img.shields.io/github/commits-since/jerryn70/GoodbyeAds/latest.svg)](https://github.com/jerryn70/GoodbyeAds/commits/master)
-[![last commit](https://img.shields.io/github/last-commit/jerryn70/GoodbyeAds.svg)](https://github.com/jerryn70/GoodbyeAds/commits/master)
-[![commit activity](https://img.shields.io/github/commit-activity/y/jerryn70/GoodbyeAds.svg)](https://github.com/jerryn70/GoodbyeAds/commits/master)
-<a href="https://github.com/jerryn70/GoodbyeAds"><img alt="Code style: black" src="https://img.shields.io/badge/build%20-passing-32CD32.svg"></a>
-<a href="https://github.com/jerryn70/GoodbyeAds"><img alt="Code style: black" src="https://img.shields.io/badge/status%20-stable-FF1493.svg"></a>
-<a href="https://github.com/jerryn70/GoodbyeAds"><img alt="Code style: black" src="https://img.shields.io/badge/updated%20on-25 Feb 2023-9400D3.svg"></a>  
+<a href="https://github.com/jerryn70/GoodbyeAds/release" > 
+    <img src="https://img.shields.io/github/release/jerryn70/GoodbyeAds?label=releases&color=critical" alt="latest release" >
+   <a/>
+   <a href="#" > 
+    <img src="https://img.shields.io/github/last-commit/jerryn70/GoodbyeAds?label=Last%20Updated" alt="last updated" >
+   <a/>
+   <a href="https://github.com/jerryn70/GoodbyeAds"><img alt="Code style: black" src="https://img.shields.io/badge/build%20-passing-ff69b4.svg"></a>
+   <a href="https://github.com/jerryn70/GoodbyeAds"><img alt="Code style: black" src="https://img.shields.io/badge/status%20-stable-FF1493.svg"></a>
+   <a href="https://github.com/jerryn70/GoodbyeAds/blob/master/LICENSE" > 
+    <img src="https://img.shields.io/github/license/jerryn70/GoodbyeAds?label=License&color=blueviolet" alt="license" >
+  <a/>
+   <a href="https://github.com/jerryn70/GoodbyeAds/commits/master" > 
+    <img src="https://img.shields.io/github/commit-activity/m/jerryn70/GoodbyeAds?label=Commit%20Activity" alt="commit activity" >
+  <a/>
+  <a href="https://github.com/jerryn70/GoodbyeAds/graphs/contributors" > 
+    <img src="https://img.shields.io/github/contributors/jerryn70/GoodbyeAds?label=Contributors&color=yellow" alt="contributors" >
+  <a/>
 <a href="https://github.com/jerryn70/GoodbyeAds/issues"><img src="https://img.shields.io/github/issues/jerryn70/GoodbyeAds?color=red&logo=github&style=plastic" alt="GH issues"></a>
 <a href="https://github.com/jerryn70/GoodbyeAds"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjerryn70%2FGoodbyeAds_fGHyh&count_bg=%234572CD&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views%3A+%28today%2FTotal%29&edge_flat=false"/></a>       
+
+   
 <h1 align="center">GoodbyeAds - W🌎rld of Ads Free Internet</h1> 
 <p align="center">
   <a href="https://paypal.me/jerryn70" target="_blank"><img alt="Donate using Paypal" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif"></a>
