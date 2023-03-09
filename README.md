@@ -1,10 +1,10 @@
-<div align="center">
+<p align="center">
   <img width="400" height="400" src="https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Images/GoodbyeAds_New_logo_Trans.png">
-</div>
+</p>
 &nbsp;
 &nbsp;
 
-<div align="center">
+<p align="center">
 <a href="https://github.com/jerryn70/GoodbyeAds/release" > 
     <img src="https://img.shields.io/github/release/jerryn70/GoodbyeAds?label=releases&color=critical" alt="latest release" >
    <a/>
@@ -24,25 +24,25 @@
   <a/>
 <a href="https://github.com/jerryn70/GoodbyeAds/issues"><img src="https://img.shields.io/github/issues/jerryn70/GoodbyeAds?color=red&logo=github&style=plastic" alt="GH issues"></a>
 <a href="https://github.com/jerryn70/GoodbyeAds"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjerryn70%2FGoodbyeAds_fGHyh&count_bg=%234572CD&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views%3A+%28today%2FTotal%29&edge_flat=false"/></a>       
-</div>
+</p>
 
-<div align="center">
+<p align="center">
   <h1>GoodbyeAds - W🌎rld of Ads Free Internet</h1> 
-</div>
+</p>
 
-<div align="center">
+<p align="center">
   <a href="https://paypal.me/jerryn70" target="_blank"><img alt="Donate using Paypal" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif"></a>
-</div>
+</p>
 
-<div align="center">
+<p align="center">
   <a href="https://liberapay.com/jerryn70/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
-</div>
+</p>
 
-<div align="center">
+<p align="center">
   <strong>Blocks Ads, Trackers & Malware</strong>
-</div>
+</p>
 
-<div align="center">
+<p align="center">
   <h3>
   <a href="https://blockads.fivefilters.org/">
       Check
@@ -64,7 +64,7 @@
       Github
     </a>
   </h3>
-</div>
+</p>
 
 ## Features
 
